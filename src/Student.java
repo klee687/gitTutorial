@@ -12,4 +12,4 @@ public class Student extends Person {
     public String toString() {
         return String.format("Name: %s\nMajor: %s\nEmail: %s", this.name, this.major, this.emailAddress);
     }
-}
+} 
